@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dedar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smdedar" alt="smdedar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smdedar&style=for-the-badge" alt="smdedar" /> </p>
 
 <!-- - 🔭 I’m currently working on [Tweet Analysis ](https://github.com/devded/NLP-Thesis) -->
 
