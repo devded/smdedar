@@ -93,18 +93,18 @@
 
 
 </p>
-
+<!--
 ### ⭐ Statistics and Languages
-
+-->
  <!-- <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=devded&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devded&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="devded" height="165" />
  </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=smdedar&s&count_private=true&how_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=smdedar&theme=tokyonight" />
-</p>
+</p> -->
 
 <!--
 
